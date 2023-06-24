@@ -1,2 +1,9 @@
 # Faucet-Linea
 Linea Faucet
+1. https://www.infura.io/faucet/linea?s=09
+2. https://faucet.trade/?type=linea_eth&s=09
+3. https://linea.faucetme.pro/?s=09
+4. https://www.covalenthq.com/faucet/?s=09#signup
+5. https://www.faucet.echodex.io/?s=09
+6. https://faucet.goerli.linea.build/?s=09
+7. https://linea.faucetme.pro/
